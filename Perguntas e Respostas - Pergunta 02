@@ -1,0 +1,17 @@
+O que é a técnica de prompting AD-FCoT para finanças?
+R: A técnica AD-FCoT (Analogy-Driven Financial Chain-of-Thought) é uma estrutura de prompting desenvolvida especificamente para a análise de sentimento em notícias financeiras
+. Ela se diferencia de métodos tradicionais por integrar o raciocínio analógico à técnica de Cadeia de Pensamento (CoT)
+.
+A seguir, os principais componentes e objetivos dessa técnica:
+Raciocínio Analógico: A técnica orienta os modelos de linguagem (LLMs) a estabelecer paralelos entre novos eventos e cenários históricos relevantes que já possuem desdobramentos conhecidos
+. Essas analogias são então inseridas em uma cadeia de raciocínio estruturada passo a passo
+.
+Funcionamento sem Treinamento Adicional: O AD-FCoT opera puramente por meio de engenharia de prompt, o que significa que não exige dados extras de treinamento ou ajuste fino (fine-tuning) do modelo
+. Ele aproveita o conhecimento financeiro interno já presente na IA para gerar justificativas que mimetizam o raciocínio analítico humano
+.
+Vantagens Práticas: Experimentos indicam que esta abordagem supera baselines tradicionais em precisão de classificação de sentimento e alcança uma correlação substancialmente maior com os retornos do mercado
+.
+Transparência e Interpretabilidade: Ao forçar o modelo a explicar as analogias e os passos lógicos, a técnica fornece insights interpretáveis, tornando-a adequada para aplicações reais no mercado financeiro, onde a clareza sobre "por que" uma decisão foi tomada é fundamental
+.
+Essa técnica resolve uma falha comum em outros métodos de IA que muitas vezes têm dificuldade em capturar o contexto econômico complexo das notícias ou carecem de transparência em seu processo de decisão
+.
