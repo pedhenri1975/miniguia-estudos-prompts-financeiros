@@ -1,0 +1,53 @@
+De Exemplos de Prompts para aprender a escolher empresas boas para compra de ações.
+R: Para aprender a escolher boas empresas para investir em ações, você deve utilizar prompts que forcem a Inteligência Artificial a agir como um analista especializado e a seguir metodologias estruturadas, como a Cadeia de Pensamento (CoT)
+.
+Abaixo estão exemplos de prompts baseados nas fontes, organizados por tipo de análise:
+1. Análise Completa de Empresa (Método B3 Fofa I)
+Este prompt utiliza um acrônimo específico para o mercado brasileiro e cobre desde indicadores financeiros até a recomendação final
+.
+Prompt: "Como um especialista em finanças e investimentos, realize uma análise da empresa [Inserir Nome ou Ticker] listada na B3 utilizando o método B3 Fofa I. Siga esta estrutura:
+Balanço Financeiro: Analise indicadores como P/L, ROE, ROIC, Dívida Líquida/EBITDA e Liquidez. Avalie a saúde financeira recente (lucros e fluxo de caixa)
+.
+3 Pilares: Descreva o modelo de negócio, as vantagens competitivas e o posicionamento da empresa no setor frente aos concorrentes
+.
+Fofa (SWOT): Liste 3 a 5 pontos fortes, oportunidades, fraquezas e ameaças (riscos regulatórios e macroeconômicos)
+.
+Investir: Forneça uma conclusão com nota de 1 a 5 e recomendação (Compra, Manter ou Venda), justificando com base no valor intrínseco e comparando com as médias do setor"
+.
+2. Auditoria do "Fosso Econômico" (Estilo Warren Buffett)
+Este prompt foca na defensabilidade do negócio a longo prazo, essencial para identificar empresas sólidas
+.
+Prompt: "Atue como um analista de investimentos focado em Value Investing. Realize uma 'Auditoria de Fosso Econômico' para a empresa [Nome]. Analise o quão protegido o negócio está da concorrência e se ele possui lucros sustentáveis. Identifique se a empresa possui uma marca forte, economia de escala ou vantagens de custo que a tornem irrelevante para os rivais"
+.
+3. Análise Fundamentalista Passo a Passo (Chain-of-Thought)
+Para evitar respostas genéricas, este prompt guia a IA por uma sequência lógica de raciocínio
+.
+Prompt: "Analise a saúde financeira de [Empresa] utilizando a seguinte abordagem estruturada passo a passo:
+Revise as tendências de receita nos últimos três anos e explique as causas de flutuações
+.
+Examine a estrutura de custos e veja se as despesas crescem em proporção à receita
+.
+Compare os indicadores financeiros atuais com os benchmarks do setor
+.
+Analise o fluxo de caixa para determinar se a empresa gera caixa suficiente para financiar seu próprio crescimento
+.
+Sintetize tudo em uma narrativa sobre a viabilidade da ação"
+.
+4. Análise Setorial e Vantagens Competitivas (Porter)
+Ideal para entender se a empresa está em um setor favorável e como ela se protege
+.
+Prompt: "Utilize o framework das Cinco Forças de Porter para avaliar a atratividade do setor da empresa [Nome]. Analise a rivalidade entre concorrentes, a ameaça de novos entrantes, o poder de barganha de fornecedores e compradores, e a ameaça de produtos substitutos. Ao final, avalie a visão estratégica da gestão e se o governo corporativo está alinhado aos acionistas"
+.
+5. Valuation e Simulação de Cenários
+Para aprender se o preço da ação está justo, você deve pedir simulações de futuro
+.
+Prompt: "Como especialista em gestão de ativos, realize um Valuation da empresa [Nome] utilizando o método de Fluxo de Caixa Descontado (DCF) e múltiplos de mercado
+. Após o cálculo, simule três cenários para o valor da ação: Otimista, Base e Pessimista, considerando mudanças na taxa Selic, inflação e possíveis novas aquisições pela companhia"
+.
+Dicas para resultados melhores:
+Defina a Persona: Sempre comece o prompt dizendo à IA para agir como um analista experiente (ex: "Aja como um analista de ações com 15 anos de experiência")
+.
+Use Fórmulas: Instrua a IA a utilizar fórmulas matemáticas (via LaTeX) para calcular métricas como o ROE (Lucro Líquido / Patrimônio Líquido) para garantir precisão aritmética
+.
+Solicite Dados Atualizados: Peça para a IA incluir valores dos últimos dois meses e informar a data de atualização dos dados utilizados para evitar alucinações baseadas em balanços antigos
+.
