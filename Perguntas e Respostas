@@ -1,0 +1,14 @@
+Como criar prompts eficazes para analisar o mercado financeiro brasileiro?
+R: Para criar prompts eficazes voltados à análise do mercado financeiro brasileiro, é fundamental utilizar a técnica de Cadeia de Pensamento (Chain-of-Thought - CoT), que instrui a IA a decompor problemas complexos em etapas lógicas e sequenciais
+. O primeiro passo de um prompt robusto deve ser a definição de uma persona especializada, como um analista de investimentos com anos de experiência no mercado de capitais nacional, o que ajusta o tom e a profundidade técnica da resposta
+. Estruturas como o CO-STAR (Contexto, Objetivo, Estilo, Tom, Público e Resposta) garantem que o briefing seja abrangente e alinhado aos objetivos estratégicos do investidor
+.
+Uma metodologia prática e adaptada ao cenário local é o acrônimo B3 Fofa I, que guia a análise através de cinco pilares: Balanço financeiro, 3 Pilares (modelo de negócio, vantagens competitivas e setor), Fofa (SWOT), e Investir (conclusão com nota de recomendação)
+. Para a análise de empresas listadas na B3, o prompt deve exigir a extração e interpretação de indicadores fundamentais como ROE, ROIC, P/L, Dividend Yield e P/VP, preferencialmente utilizando fórmulas matemáticas via LaTeX para evitar erros de cálculo
+. É crucial também incluir o contexto macroeconômico brasileiro, orientando a IA a analisar sinais de documentos como o Relatório Focus e as Atas do Copom
+.
+Para decodificar as decisões de política monetária, o prompt deve ser específico ao buscar marcadores linguísticos que indiquem posturas hawkish (firmeza contra a inflação) ou dovish (tendência de corte de juros)
+. Além disso, a técnica de Few-Shot Prompting, que consiste em fornecer exemplos de análises anteriores, ajuda a alinhar a terminologia técnica da IA aos padrões da CVM e da ANBIMA
+. Para garantir a precisão e evitar alucinações, o prompt deve incluir instruções de autoavaliação, pedindo que a IA verifique se há contradições antes de finalizar a resposta e permita que ela admita quando não possui dados suficientes
+. Por fim, ao lidar com ativos de renda fixa, o prompt deve ser instruído a calcular a rentabilidade líquida considerando a tabela regressiva do Imposto de Renda e o impacto da marcação a mercado sobre os títulos públicos
+.
