@@ -1,5 +1,6 @@
 # miniguia-estudos-prompts-financeiros
 miniguia para estudar prompts que auxiliam nas tomadas de decisões no setor financeiro
+
 Objetivo: 
 Criar um segundo cérebro para elaborar prompts financeiros que auxiliem nas tomadas de decisões para todo o setor financeiro.
 
